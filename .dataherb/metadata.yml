@@ -1,0 +1,10 @@
+name: Example_NMR_data.csv
+description: Dataset provide in NMR spectra of 10 samples
+contributors:
+- name: Theerayut
+data:
+- name: [name of your data file, optional]
+  description: [description of your data file, optional]
+  path: dataset/Example_NMR_data.csv
+  format: csv
+  size: 1.3 MB
